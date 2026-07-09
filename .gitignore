@@ -1,0 +1,12 @@
+# Dataset files
+data/
+
+# CSV files
+*.csv
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
